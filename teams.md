@@ -316,7 +316,7 @@ We are going to use gatsby, react, and material-ui to build out the ui.  Then we
 * Teammates:
     - Hardik Modi (@hardik)
 * Seeking Teammates: No
-* [Project URL](https://github.com/hardiked/https://github.com/hardiked/helper)
+* [Project URL](https://github.com/hardiked/helper)
 * Project Name: Farmerhelper
 
 ***
